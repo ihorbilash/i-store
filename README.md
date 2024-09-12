@@ -10,7 +10,7 @@ This service listens to the MongoDB `customers` collection for new or updated do
 ## Setup
 
 1. start app
- dont forget check db connection
+ - dont forget check db connection
    - npm install
    - npm run start
 
